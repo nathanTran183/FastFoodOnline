@@ -1,0 +1,156 @@
+#card-details .accepted_cards ul li {
+padding: 0;
+margin: 0 2px 0 0;
+float: left;
+width: 60px;
+height: 35px;
+text-align: center;
+padding-top: 5px;
+}
+#card-details p{
+    overflow: hidden;
+}
+#card-details .accepted_cards {
+display: block;
+position: relative;
+height: 70px;
+width: 700px;
+}
+#shopping-basket label {
+width: 100px;
+margin-top: 3px;
+}
+#card-details .adjusted {
+width: 320px;
+}
+#card-details label {
+width: 170px;
+float: left;
+clear: both;
+margin-right: 5px;
+}
+#card-details form select {
+width: 270px;
+float: left;
+}
+.credit-type { overflow: hidden;}
+#contact-form .credit-type input { width: 30px; line-height: 30px;margin-top: 8px; float: left;}
+#contact-form .credit-type span { float: left; width: auto;}
+#card-details input { height: 22px}
+#card-details select { height: 30px}
+#contact-form .termsagree { width: 30px; height: auto; margin-top: 5px}
+#contact-form .buttons { text-align: left;}
+#slider1_container .title{ line-height: 1em; font-size: 30px}
+#slider1_container .item .pic {
+    position: absolute;
+    top: 0px;
+    left: 30px;
+    width: 613px;
+    height: 324px;
+}
+#slider1_container .item .banner {
+    z-index: 999;
+    display: block;
+    position: absolute;
+    width: 250px;
+    height: 300px;
+    top: 10px;
+    left: 680px;
+    text-align: left;
+    line-height: 1.8em;
+    font-size: 12px;
+}
+.jssora07l, .jssora07r, .jssora07ldn, .jssora07rdn {
+    position: absolute;
+    cursor: pointer;
+    display: block;
+    background: url(../img/a07.png) no-repeat;
+    overflow: hidden;
+}
+
+.jssora07l {
+    background-position: -5px -35px;
+}
+
+.jssora07r {
+    background-position: -65px -35px;
+}
+
+.jssora07l:hover {
+    background-position: -125px -35px;
+}
+
+.jssora07r:hover {
+    background-position: -185px -35px;
+}
+
+.jssora07ldn {
+    background-position: -245px -35px;
+}
+
+.jssora07rdn {
+    background-position: -305px -35px;
+}
+.jssort04 .w, .jssort04 .pav:hover .w {
+    position: absolute;
+    width: 60px;
+    height: 30px;
+    border: #0099FF 1px solid;
+}
+
+* html .jssort04 .w {
+    width: /**/ 62px;
+    height: /**/ 32px;
+}
+
+.jssort04 .pdn .w, .jssort04 .pav .w {
+    border-style: solid;
+}
+
+.jssort04 .c {
+    width: 62px;
+    height: 32px;
+    filter: alpha(opacity=45);
+    opacity: .45;
+    transition: opacity .6s;
+    -moz-transition: opacity .6s;
+    -webkit-transition: opacity .6s;
+    -o-transition: opacity .6s;
+}
+
+.jssort04 .p:hover .c, .jssort04 .pav .c {
+    filter: alpha(opacity=0);
+    opacity: 0;
+}
+
+.jssort04 .p:hover .c {
+    transition: none;
+    -moz-transition: none;
+    -webkit-transition: none;
+    -o-transition: none;
+}
+.c{ cursor:pointer}
+.banner-paginate {
+    cursor: move;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 980px;
+    height: 400px;
+    overflow: hidden;
+}
+.wrapper article div.relative { position: absolute; bottom: 0px}
+.home-content article { height: 187px}
+.img-avatar { margin-top: 20px}
+.action-div { margin: 10px}
+.recipe-content .extra-wrap { height: auto}
+.recipe-content .img-indent { float: right}
+.recipe-content .col-2 .img-indent {float:left}
+.recipe-content  h5{ font-weight: bold; font-size: 14px}
+.Feedback #Feedback { border: none}
+#Feedback form textarea {
+width: 230px;
+margin-top: 5px;
+margin: 3px;
+height: 80px;
+}
